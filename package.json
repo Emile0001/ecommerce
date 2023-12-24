@@ -1,0 +1,17 @@
+{
+    "name": "ecommerce",
+    "version": "1.0.0",
+    "description": "online store using nodeJS javascript expressJS MongoDB",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "author": "Emile Botes",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.2"
+    }
+}
