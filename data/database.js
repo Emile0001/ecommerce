@@ -11,8 +11,9 @@ async function connectToDatabase() {
 
 function getDb() {
     if (!database) {
-        throw new Error("Connect to database first");
+        throw new Error("You must connect first!");
     }
+
     return database;
 }
 
