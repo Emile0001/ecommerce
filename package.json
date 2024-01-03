@@ -4,7 +4,7 @@
     "description": "online store using nodeJS javascript expressJS MongoDB",
     "main": "index.js",
     "scripts": {
-        "start": "nodemon app.js"
+        "start": "nodemon views/app.js"
     },
     "author": "Emile Botes",
     "license": "ISC",
